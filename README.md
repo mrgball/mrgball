@@ -29,17 +29,6 @@
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <!-- Tambahkan link kamu di sini -->
-  <!--
-  <a href="https://linkedin.com/in/username"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/username"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  -->
-</p>
-
----
-
 ### 💡 Quote of the Day
 <p align="center">
   <i>"Code. Learn. Build. Repeat."</i>
